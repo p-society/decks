@@ -11,7 +11,9 @@ Now that you have a basic idea of python you should try to venture out into the 
 
 **NOTE: There is only one way to learn software development by writing software :wink: so if you are just going through these talks and tutorials without trying things out on your own and not writing any code yourself you might as well stop and don't even do that because without writing code you will never learn how to code.**
 
+
 Before going through the list of resources you can also take a look at the [Hacker Manifesto](http://www.catb.org/esr/faqs/hacker-howto.html) to become familiar with the hacker culture. It is a big piece of text so don't read it all at one 4-5 paragraphs a week would be enough.
+
 
 #### Project ideas
 
