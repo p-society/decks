@@ -1,3 +1,4 @@
+
 # Day 3
 
 ## Code of Day 3:
@@ -70,6 +71,21 @@ JS Conf: https://www.youtube.com/user/jsconfeu
 [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 
 [Node.JS notes for professionals](https://books.goalkicker.com/NodeJSBook/)
+
+
+##  Web developers to follow:
+[Sarah Drasner](https://github.com/sdras) : Award-winning Speaker, Blogger at CSS-Tricks, must follow her if you want to learn CSS
+
+[SindreSorhus](https://github.com/sindresorhus) : Full time open sourcer, Node.JS dev 
+
+[Brad Traversy](https://github.com/bradtraversy) : Creator of Traversy Media youtube Channel
+
+[Ryah Dahl](https://github.com/ry) : Node.JS creator
+
+[Wes Bos](https://github.com/wesbos) : Awesome Javascript dev and creator of great courses
+
+
+
 
 
 ## Instructions:
